@@ -1,4 +1,4 @@
 jeremyanddarcy.com
 ==================
 
-My family blog
+Reviving my family blog for our epic RV trip out west this summer.
