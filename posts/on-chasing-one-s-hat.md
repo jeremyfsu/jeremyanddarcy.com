@@ -12,8 +12,8 @@ Regardless of which way they respond, I am reminded of one of my favorite G.K. C
 
 *"An adventure is only an inconvenience rightly considered. An inconvenience is only an adventure wrongly considered."*
 
-This quote comes from G.K. Chesterton's "All Things Considered" in a brilliant chapter titled 
-["On Running After One's Hat"](http://www.gutenberg.org/ebooks/11505).
+This quote comes from G.K. Chesterton's ["All Things Considered"](http://www.gutenberg.org/ebooks/11505) in a brilliant chapter titled 
+["On Running After One's Hat"](http://www.catholic-forum.com/saints/gkc16004.htm).
 
 One of Darcy's mentors in college is known for saying 
 *"You control the environment which in turn controls you".* 

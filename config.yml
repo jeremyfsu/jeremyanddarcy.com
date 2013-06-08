@@ -80,10 +80,10 @@ widgets :
     # site_id :
 
   comments :
-    use : disqus
-    enable : false
+    use : facebook
+    enable : true
     # -- config for disqus --
-    short_name : jekyllbootstrap # Change This!
+    #short_name : jeremyanddarcy # Change This!
 
     # -- config for livefyre --
     # site_id : 123
@@ -92,10 +92,10 @@ widgets :
     # account : 123abc
 
     # -- config for facebook --
-    # appid : 123
+    #appid : jeremyanddarcy.com
     # num_posts: 5
     # width: 580
     # colorscheme: light
-
+    data-href : http://jeremyanddarcy.com
   google_prettify :
     linenums : true
